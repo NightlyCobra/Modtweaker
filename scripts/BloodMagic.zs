@@ -1,5 +1,5 @@
 // name: BloodMagic
-// modpack: Meep
+// modpack:
 // description: Adds four new recipes and removed two
 // author: NightlyCobra
 

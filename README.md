@@ -1,3 +1,4 @@
 # Modtweaker
 
-meep
+Modtweaker for Minecraft
+
